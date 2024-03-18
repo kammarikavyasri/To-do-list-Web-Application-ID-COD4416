@@ -1,6 +1,6 @@
 ***Task:CodeTech IT Solutions Internship -Task1 Documentation:To-Do list Web applications using HTML,CSS,JAVASCRIPT***
 ***Introduction:**
-This documentation provides a detailed explanation of the task assigned during the odetech TT Soluyions Internship program.The task involves how to create a To-Do list Web applications using HTML,CSS,JAVASCRIPT.
+This documentation provides a detailed explanation of the task assigned during the codetech TT Solutions Internship program.The task involves how to create a To-Do list Web applications using HTML,CSS,JAVASCRIPT.
 **Intern Information:**
 Name:kammari kavyasri
 Intern Id:COD4416
